@@ -1,10 +1,6 @@
 package com.yu.supermarketsim;
 
 /**
-Supermarket 实体
-Cashier 实体
-Customer 实体
-Good 实体
 流程如下
 -      启动 Supermarket 
 -      Supermarket 初始化3个 Cashier
@@ -16,8 +12,8 @@ Good 实体
 -      统计出每个商品平均售出时间
 -      统计出从开始销售到售罄总共时间
 -      统计出每个 Cashier 接待的顾客数量
-要求：
--      请使用单元测试来确保结果正确
+另外
+-      单元测试保证关键函数和流程的质量内建
  */
 
 public class App 
